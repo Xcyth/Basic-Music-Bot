@@ -1,0 +1,22 @@
+{
+    "bot": {
+        "id": "1225737286956613724",
+        "ownerId": "338190277552635904",
+        "test_guild_id": "755697039291187231",
+        "token": "Your Bot Token"
+    },
+    "database": {
+        "url": "Your Mongo Database URL"
+    },
+    "music": {
+        "lavalink": {
+            "nodes": [
+                {
+                    "host": "lavalink.devamop.in",
+                    "port": 80,
+                    "password": "DevamOP"
+                }
+            ]
+        }
+    }
+}
